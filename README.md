@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 <head>
 <title>Box Layout</title>
@@ -19,7 +19,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at sapien portt
 <!-- Bottom Box (Red with 10px border) -->
 <div style="background-color: #e25a5a; border: 10px solid black; width: 150px; height: 150px;">
   </div>
+  
    </body>
+   
    </html>
    
 
